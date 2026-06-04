@@ -86,7 +86,7 @@ Backend developer focused on PHP and Laravel, with hands-on experience shipping 
 
 ---
 
-### 💼 [Pixel Positions](https://github.com/MAbdelhay04/pixel-positions) — Full-Featured Job Board Platform
+### 💼 [Pixel Positions](https://github.com/MAbdelhay04/PixelPositions) — Full-Featured Job Board Platform
 
 > Built on **Laravel 13** with a complete employer/candidate workflow.
 
@@ -106,13 +106,13 @@ Backend developer focused on PHP and Laravel, with hands-on experience shipping 
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAbdelhay04&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MAbdelhay04&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/MAbdelhay04)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAbdelhay04&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+[![Mohamed's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MAbdelhay04&theme=github-compact&hide_border=true&area=true)](https://github.com/MAbdelhay04)
 
 </div>
 
