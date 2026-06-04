@@ -86,7 +86,7 @@ Backend developer focused on PHP and Laravel, with hands-on experience shipping 
 
 ---
 
-### 💼 [Pixel Positions](https://github.com/MAbdelhay04/PixelPositions) — Full-Featured Job Board Platform
+### 💼 [Pixel Positions](https://github.com/MAbdelhay04/pixel-positions) — Full-Featured Job Board Platform
 
 > Built on **Laravel 13** with a complete employer/candidate workflow.
 
